@@ -2,10 +2,12 @@
 
 ### :wrench: Note: still under construction  :nut_and_bolt: :sunglasses:
 
+### Summary
+
 NIR spectroscopy is a vibrational spectroscopic technique that is sensitive to specific molecular species containing
 CH, NH, OH and SH bonds, which constitute the fundamental chemical structure of biological tissues. NIR spectroscopy is sensitive to micro- and macroscopic properties of cartilage (_10,11,19,20_), and a typical spectrum incorporates latent information on structural, compositional and morphological properties of the tissue. In addition, this optical modality penetrates deep into soft tissues (_21_), permitting full-depth cartilage probing (_22, 23_). The potential of NIR spectroscopy for non-destructive probing of articular cartilage is currently gaining research attention (_7–14, 19, 24, 25_), and its capacity for evaluation of engineered cartilage has been demonstrated (_26, 27_).
 
-In this study, we evaluated the capacity of NIR spectroscopy, combined with machine and deep learning techniques, to classify cartilage integrity in rabbit (_n_=14) knee joints with artificial injury, induced via unilateral anterior cruciate ligament transection (ACLT), and the corresponding contra-lateral (CL) joints, including joints from separate non-operated control (CNTRL) animals (_n_=16).
+In this study, we evaluated the capacity of NIR spectroscopy, combined with machine and deep learning techniques, to classify cartilage integrity in rabbit (_n_=14) knee joints with artificial injury, induced via unilateral anterior cruciate ligament transection (ACLT), and the corresponding contra-lateral (CL) joints, including joints from separate non-operated control (CNTRL) animals (_n_=16). We compared the performance of traditional machine learning techniques, including support vector machines (SVM) and logistic regression (LR), with deep learning methods, particularly deep neural networks (DNN), for classification of cartilage integrity based on NIR spectral data. SVM is a supervised learning algorithm that uses the maximum margin principle to find a hyperplane that best separates two or multiple classes, while LR uses the logit (sigmoid) function to model the relationship between independent (predictors) and response (classes) variables based on maximum likelihood estimation. Unlike traditional analytical approach that is problem-defined, neural 114 networks are universal approximators. They can discover features in large datasets by using the backpropagation algorithm to indicate how a model should change its internal parameters that are used to compute the representation in each layer from the representation in the previous layer (_28_). We hypothesized that machine learning techniques can harness sample-related information embedded in the NIR spectrum for classification and holistic assessment of the tissue integrity.
 
 Check out the notebooks on Google's Colaboratory
 
@@ -38,3 +40,4 @@ Check out the notebooks on Google's Colaboratory
 ###### 25. McGoverin, C. M. et al. Appl. Spectrosc. 68, 1168–1175 (2014).
 ###### 26. Baykal, D. et al. Appl. Spectrosc. 64, 1160–1166 (2010).
 ###### 27. Hanifi, A. et al. Analyst 142, 1320–1332 (2017).
+###### 28. LeCun YA, Bengio Y, Hinton GE. Nature. 521(7553):436-444. doi:10.1038/nature14539 (2015).
