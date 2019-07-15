@@ -15,8 +15,7 @@ In this study, we evaluated the capacity of NIR spectroscopy, combined with mach
 
 ###### 8. Spahn, G. et al. Med. Eng. Phys. 30, 285–92 (2008).
 
-###### 9. Afara, I. O. et al. Arthroscopy, https://doi.org/10.1016/j.arthro.2014.04.097
-(2014).
+###### 9. Afara, I. O. et al. Arthroscopy, https://doi.org/10.1016/j.arthro.2014.04.097 (2014).
 
 ###### 10. Afara, I. O. et al. Physiol. Meas. 36, 1913–1928 (2015).
 
