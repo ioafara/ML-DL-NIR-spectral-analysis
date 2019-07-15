@@ -3,9 +3,9 @@
 ### Note: still under construction
 
 NIR spectroscopy is a vibrational spectroscopic technique that is sensitive to specific molecular species containing
-CH, NH, OH and SH bonds, which constitute the fundamental chemical structure of biological tissues. NIR spectroscopy is sensitive to micro- and macroscopic properties of cartilage (10,11,19,20), and a typical spectrum incorporates latent information on structural, compositional and morphological properties of the tissue. In addition, this optical modality penetrates deep into soft tissues (21), permitting full-depth cartilage probing (22, 23). The potential of NIR spectroscopy for non-destructive probing of articular cartilage is currently gaining research attention (7–14, 19, 24, 25), and its capacity for evaluation of engineered cartilage has been demonstrated (26, 27).
+CH, NH, OH and SH bonds, which constitute the fundamental chemical structure of biological tissues. NIR spectroscopy is sensitive to micro- and macroscopic properties of cartilage (_10,11,19,20_), and a typical spectrum incorporates latent information on structural, compositional and morphological properties of the tissue. In addition, this optical modality penetrates deep into soft tissues (_21_), permitting full-depth cartilage probing (_22, 23_). The potential of NIR spectroscopy for non-destructive probing of articular cartilage is currently gaining research attention (_7–14, 19, 24, 25_), and its capacity for evaluation of engineered cartilage has been demonstrated (_26, 27_).
 
-In this study, we evaluated the capacity of NIR spectroscopy, combined with machine and deep learning techniques, to classify cartilage integrity in rabbit (n=14) knee joints with artificial injury, induced via unilateral anterior cruciate ligament transection (ACLT), and the corresponding contra-lateral (CL) joints, including joints from separate non-operated control (CNTRL) animals (n=16).
+In this study, we evaluated the capacity of NIR spectroscopy, combined with machine and deep learning techniques, to classify cartilage integrity in rabbit (_n_=14) knee joints with artificial injury, induced via unilateral anterior cruciate ligament transection (ACLT), and the corresponding contra-lateral (CL) joints, including joints from separate non-operated control (CNTRL) animals (_n_=16).
 
 Check out the notebooks on Google's Colaboratory
 
