@@ -1,6 +1,6 @@
 ## Near infrared (NIR) spectral analysis using machine & deep learning
 
-### Note: still under construction
+### :wrench: Note: still under construction  :nut_and_bolt: :sunglasses:
 
 NIR spectroscopy is a vibrational spectroscopic technique that is sensitive to specific molecular species containing
 CH, NH, OH and SH bonds, which constitute the fundamental chemical structure of biological tissues. NIR spectroscopy is sensitive to micro- and macroscopic properties of cartilage (_10,11,19,20_), and a typical spectrum incorporates latent information on structural, compositional and morphological properties of the tissue. In addition, this optical modality penetrates deep into soft tissues (_21_), permitting full-depth cartilage probing (_22, 23_). The potential of NIR spectroscopy for non-destructive probing of articular cartilage is currently gaining research attention (_7–14, 19, 24, 25_), and its capacity for evaluation of engineered cartilage has been demonstrated (_26, 27_).
