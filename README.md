@@ -5,7 +5,7 @@ CH, NH, OH and SH bonds, which constitute the fundamental chemical structure of 
 
 In this study, we evaluated the capacity of NIR spectroscopy, combined with machine and deep learning techniques, to classify cartilage integrity in rabbit (n=14) knee joints with artificial injury, induced via unilateral anterior cruciate ligament transection (ACLT), and the corresponding contra-lateral (CL) joints, including joints from separate non-operated control (CNTRL) animals (n=16).
 
-1. NIRS multi-class classification analysis [![Open In Colab](https://colab.research.google.com/drive/1msPHAviwc64HIsq9eZGcrzR7MDdlZtuw#scrollTo=rCGsYlc15xdU&uniqifier=1)
+1. NIRS multi-class classification analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1msPHAviwc64HIsq9eZGcrzR7MDdlZtuw#scrollTo=rCGsYlc15xdU&uniqifier=1)
 
 
 ### References
